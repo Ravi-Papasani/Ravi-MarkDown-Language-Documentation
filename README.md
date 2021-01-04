@@ -57,10 +57,10 @@ console.log(Hello);
 
 To Create a table view, keep space '---' in between pipes like this | --- |
 
-| CompanyName   | CEO       | HQ                |
-| ------------- | --------- | ----------------- |
-| Satya Nadella | Microsoft | Redmond, WA       |
-| Sundar Pichai | Google    | Mountain View, CA |
+| CEO           | CompanyName | HQ                |
+| ------------- | ----------- | ----------------- |
+| Satya Nadella | Microsoft   | Redmond, WA       |
+| Sundar Pichai | Google      | Mountain View, CA |
 
 [url description like href](https://www.google.com/)
 
